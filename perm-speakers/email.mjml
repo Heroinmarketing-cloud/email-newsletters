@@ -1,0 +1,341 @@
+<mjml>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      <mj-class name="body" width="600px" background-color="#FFFFFF" />
+      <mj-class name="section" padding="0" />
+      <mj-class
+        name="textTitle"
+        padding="0px 34px 0px 34px"
+        font-weight="700"
+        font-size="28px"
+        line-height="32.2px"
+        color="#000000"
+        text-transform="uppercase"
+      />
+      <mj-class
+        name="textRegular"
+        padding="0px 34px 0px 34px"
+        font-weight="400"
+        font-size="18px"
+        line-height="20.7px"
+        color="#000000"
+      />
+      <mj-class name="hero-image" padding="0" width="600px" />
+      <mj-class name="image" padding="0 56px" width="640px" />
+      <mj-class
+        name="button"
+        border-radius="22px"
+        padding="0"
+        inner-padding="16px 20px"
+        font-weight="700"
+        font-size="17px"
+        line-height="20.7px"
+        color="#FFFFFF"
+        text-transform="uppercase"
+      />
+      <mj-class name="footer" padding="10px 0 0" />
+      <mj-class
+        name="footer__text"
+        padding="0 52px 30px 48px"
+        font-weight="400"
+        font-size="14px"
+        line-height="16px"
+        color="#A5A5A5"
+      />
+      <mj-class name="purple-link" color="#5C3EAC" />
+    </mj-attributes>
+    <mj-style> .unsubscribe-url { color:#A5A5A5 } </mj-style>
+  </mj-head>
+  <mj-body mj-class="body">
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+          mj-class="hero-image"
+          css-class="css-image"
+          src="https://i.ibb.co/WDzQHGk/title-img.png"
+          alt="Hero cover"
+        />
+
+        <mj-text mj-class="textRegular" padding-top="41px">
+          7 апреля <span style="font-weight: 700">Startup Tour</span> пройдет в
+          Перми.<br />
+          Вас ждет встреча с лидерами креативного<br />
+          предпринимательства и арт-сообщества,  разбор кейсов, обсуждение
+          главных CreativeTECH-трендов и диалог о будущем технологий в России. В
+          фокусе внимания —
+          <span style="font-weight: 700"
+            >эффективные коллаборации технологий и креативных индустрий.</span
+          > 
+        </mj-text>
+
+        <mj-text
+          align="center"
+          text-transform="uppercase"
+          font-weight="700"
+          font-size="27px"
+          line-height="31.7px"
+          padding-top="54px"
+        >
+          КЛЮЧЕВЫЕ СПИКЕРЫ
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+          src="https://i.ibb.co/192jCdb/speaker-1.png"
+          width="103px"
+        ></mj-image>
+        <mj-text
+          font-weight="700"
+          font-size="23px"
+          color="#5C3EAC"
+          line-height="27.32px"
+          align="center"
+          >Александр Фертман</mj-text
+        >
+        <mj-text
+          font-weight="500"
+          font-size="14px"
+          color="#666666"
+          line-height="16.44px"
+          align="center"
+          >Директор департамента науки и образования  Фонд «Сколково»</mj-text
+        >
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="https://i.ibb.co/xY8MSg0/speaker-2.png"
+          width="103px"
+        ></mj-image>
+        <mj-text
+          font-weight="700"
+          font-size="23px"
+          color="#5C3EAC"
+          line-height="27.32px"
+          align="center"
+          >Владимир Синицын</mj-text
+        >
+        <mj-text
+          font-weight="500"
+          font-size="14px"
+          color="#666666"
+          line-height="16.44px"
+          align="center"
+          >Операционный директор BBE</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+          src="https://i.ibb.co/Gtp3Zcm/speaker-3.png"
+          width="103px"
+        ></mj-image>
+        <mj-text
+          font-weight="700"
+          font-size="23px"
+          color="#5C3EAC"
+          line-height="27.32px"
+          align="center"
+          >Дмитрий Маркин</mj-text
+        >
+        <mj-text
+          font-weight="500"
+          font-size="14px"
+          color="#666666"
+          line-height="16.44px"
+          align="center"
+          >Креативный директор  «Суперметалл»</mj-text
+        >
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="https://i.ibb.co/7VgtB4g/speaker-4.png"
+          width="103px"
+        ></mj-image>
+        <mj-text
+          font-weight="700"
+          font-size="23px"
+          color="#5C3EAC"
+          line-height="27.32px"
+          align="center"
+          >Наталья Попова</mj-text
+        >
+        <mj-text
+          font-weight="500"
+          font-size="14px"
+          color="#666666"
+          line-height="16.44px"
+          align="center"
+          >Сооснователь TM HOBO CODE</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-image
+          src="https://i.ibb.co/3zVrskp/speaker-5.png"
+          width="103px"
+        ></mj-image>
+        <mj-text
+          font-weight="700"
+          font-size="23px"
+          color="#5C3EAC"
+          line-height="27.32px"
+          align="center"
+          > Денис Шлесберг</mj-text
+        >
+        <mj-text
+          font-weight="500"
+          font-size="14px"
+          color="#666666"
+          line-height="16.44px"
+          align="center"
+          >Исполнительный креативный директор «Артоника»</mj-text
+        >
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="https://i.ibb.co/FqTwyXB/speaker-6.png"
+          width="103px"
+        ></mj-image>
+        <mj-text
+          font-weight="700"
+          font-size="23px"
+          color="#5C3EAC"
+          line-height="27.32px"
+          align="center"
+          >Миша Мост</mj-text
+        >
+        <mj-text
+          font-weight="500"
+          font-size="14px"
+          color="#666666"
+          line-height="16.44px"
+          align="center"
+          >Художник, креатор, digital artist</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="section">
+      <mj-column>
+        <mj-button
+          mj-class="button"
+          href="https://startup-tour.ru/city/perm/participants?utm_source=email_in&utm_medium=letter&utm_campaign=3"
+          width="532px"
+          background-color="#5C3EAC"
+          color="#FFFFFF"
+          padding-top="18px"
+          padding-bottom="46px"
+          >ПРОГРАММА КОНФЕРЕНЦИИ</mj-button
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section
+      mj-class="section"
+      background-url="https://i.ibb.co/m6DgCCr/bg-img.png"
+    >
+      <mj-column>
+        <mj-text
+          color="#FFFFFF"
+          font-size="18px"
+          font-weight="400"
+          line-height="20.7px"
+          padding="34px 34px 30px 34px"
+        >
+          Зарегистрируйтесь на сайте
+          <span style="font-weight: 700">Startup Tour 2023</span> в категории
+          «стартап» — и получите
+          <span style="font-weight: 700"
+            >доступ к серии обучающих лекций и мастер-классов</span
+          >
+          для технологических предпринимателей Skolkovo Mini MBA.</mj-text
+        >
+        <mj-button
+          mj-class="button"
+          href="https://startup-tour.ru/highlights?utm_source=email_in&utm_medium=letter&utm_campaign=3"
+          width="532px"
+          background-color="#5C3EAC"
+          color="#FFFFFF"
+          padding-bottom="40px"
+          >Самое интересное</mj-button
+        >
+        <mj-text
+          color="#FFFFFF"
+          font-size="28px"
+          font-weight="700"
+          line-height="32.87px"
+          align="center"
+          padding="0px 36px 36px 36px"
+        >
+          Не пропустите выступления экспертов — и возможности для развития ваших
+          проектов.</mj-text
+        >
+        <mj-text
+          color="#FFFFFF"
+          font-size="20px"
+          font-weight="700"
+          line-height="23.48px"
+          align="center"
+          padding-bottom="70px"
+        >
+          Ждем вас 7 апреля!</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-color="#3C2B69"
+      padding-top="10px"
+      padding-bottom="0"
+    >
+      <mj-column
+        vertical-align="middle"
+        width="107px!important"
+        padding-bottom="10px"
+      >
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/LhtY5Tm/startup-tour.png"
+          alt="Image cover"
+          width="107px"
+          href="https://t.me/suv2018"
+        />
+      </mj-column>
+
+      <mj-column
+        vertical-align="middle"
+        width="121px!important"
+        padding-bottom="10px"
+      >
+        <mj-image
+          mj-class="hero-image"
+          src="https://i.ibb.co/5xx6fK8/skolkovo-live.png"
+          alt="Image cover"
+          width="121px"
+          href="https://t.me/skolkovolive"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="footer">
+      <mj-column>
+        <mj-text mj-class="footer__text" align="justify">
+          Вы получили эту рассылку, так как подписаны на рассылки от
+          «Сколково<br />Форум», посвященные конкурсам и мероприятиям «Startup
+          Tour», «Startup<br />
+          Village» и «Nobel Vision. Открытые инновации», а также
+          информационные<br />
+          письма партнеров «Сколково».
+        </mj-text>
+        <mj-text mj-class="footer__text" align="center">
+          <a href="https://sailplay.ru/spanel/#/" class="unsubscribe-url"
+            >Отписаться от рассылки</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
