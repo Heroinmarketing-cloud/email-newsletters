@@ -1,5 +1,5 @@
-From: from@example.com
-To: to@example.com
+From: aleksandr.nechkasov@astrazeneca.com
+To: aleksandr.nechkasov@astrazeneca.comсам
 Subject: ТЕМА ПИСЬМА
 MIME-Version: 1.0
 Content-Type: text/html; charset=UTF-8
@@ -240,18 +240,45 @@ Content-Transfer-Encoding: 8bit
                                 </td>
                             </tr>
                             <tr>
-                                <td align="left" style="font-size:0px;word-break:break-word;padding:0 20px 61px;">
-                                    <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:100%;max-width:560px;">
+                                <td align="left" bgcolor="#010202" style="font-size:0px;word-break:break-word;padding:0 20px 61px;background-color:#010202;">
+                                    <!--[if mso]>
+                                    <table border="0" cellpadding="0" cellspacing="10" role="presentation" bgcolor="#010202" style="border-collapse:separate;border-spacing:10px;width:100%;max-width:560px;background-color:#010202;">
                                         <tbody>
                                         <tr>
-                                            <td class="sched-cell" width="275" height="120" valign="top" style="width:275px;height:120px;border:1px solid #FFFFFF;border-radius:24px;box-sizing:border-box;">
+                                            <td width="265" valign="top" bgcolor="#010202" style="width:265px;background-color:#010202;border:1px solid #FFFFFF;border-radius:24px;padding:18px 24px;word-break:break-word;">
+                                                <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:18px;line-height:120%;color:#52E0A0;">2 июля</div>
+                                                <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:16px;line-height:120%;color:#FFFFFF;padding-top:19px;">Основы генеративного ИИ и&nbsp;автономные AI-агенты</div>
+                                            </td>
+                                            <td width="265" valign="top" bgcolor="#010202" style="width:265px;background-color:#010202;border:1px solid #FFFFFF;border-radius:24px;padding:18px 24px;word-break:break-word;">
+                                                <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:18px;line-height:120%;color:#52E0A0;">9 июля</div>
+                                                <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:16px;line-height:120%;color:#FFFFFF;padding-top:19px;">Знакомство с&nbsp;платформой GigaChat Enterprise</div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="265" valign="top" bgcolor="#010202" style="width:265px;background-color:#010202;border:1px solid #FFFFFF;border-radius:24px;padding:18px 17px 18px 24px;word-break:break-word;">
+                                                <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:18px;line-height:120%;color:#52E0A0;">16 июля</div>
+                                                <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:16px;line-height:120%;color:#FFFFFF;padding-top:19px;">Примеры ассистентов: юрист, HR, налоги, аналитика, PR</div>
+                                            </td>
+                                            <td width="265" valign="top" bgcolor="#010202" style="width:265px;background-color:#010202;border:1px solid #FFFFFF;border-radius:24px;padding:18px 24px;word-break:break-word;">
+                                                <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:18px;line-height:120%;color:#52E0A0;">23 июля</div>
+                                                <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:16px;line-height:120%;color:#FFFFFF;padding-top:19px;">Разработка ассистента своими руками</div>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                    <![endif]-->
+                                    <!--[if !mso]><!-->
+                                    <table border="0" cellpadding="0" cellspacing="0" role="presentation" bgcolor="#010202" style="border-collapse:separate;border-spacing:0;width:100%;max-width:560px;background-color:#010202;">
+                                        <tbody>
+                                        <tr>
+                                            <td class="sched-cell" width="275" height="120" valign="top" bgcolor="#010202" style="width:275px;height:120px;background-color:#010202;border:1px solid #FFFFFF;border-radius:24px;box-sizing:border-box;word-break:break-word;">
                                                 <div style="padding:18px 24px;">
                                                     <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:18px;line-height:120%;color:#52E0A0;">2 июля</div>
                                                     <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:16px;line-height:120%;color:#FFFFFF;padding-top:19px;">Основы генеративного ИИ и&nbsp;автономные AI-агенты</div>
                                                 </div>
                                             </td>
-                                            <td class="sched-gap-x" width="10" style="width:10px;font-size:0;line-height:0;">&nbsp;</td>
-                                            <td class="sched-cell" width="275" height="120" valign="top" style="width:275px;height:120px;border:1px solid #FFFFFF;border-radius:24px;box-sizing:border-box;">
+                                            <td class="sched-gap-x" width="10" style="width:10px;font-size:0;line-height:0;"></td>
+                                            <td class="sched-cell" width="275" height="120" valign="top" bgcolor="#010202" style="width:275px;height:120px;background-color:#010202;border:1px solid #FFFFFF;border-radius:24px;box-sizing:border-box;word-break:break-word;">
                                                 <div style="padding:18px 24px;">
                                                     <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:18px;line-height:120%;color:#52E0A0;">9 июля</div>
                                                     <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:16px;line-height:120%;color:#FFFFFF;padding-top:19px;">Знакомство с&nbsp;платформой GigaChat Enterprise</div>
@@ -259,17 +286,19 @@ Content-Transfer-Encoding: 8bit
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="sched-gap-y" colspan="3" height="10" style="height:10px;font-size:0;line-height:0;">&nbsp;</td>
+                                            <td class="sched-gap-y" height="10" style="height:10px;font-size:0;line-height:10px;"></td>
+                                            <td class="sched-gap-y" height="10" style="height:10px;font-size:0;line-height:10px;"></td>
+                                            <td class="sched-gap-y" height="10" style="height:10px;font-size:0;line-height:10px;"></td>
                                         </tr>
                                         <tr>
-                                            <td class="sched-cell" width="275" height="120" valign="top" style="width:275px;height:120px;border:1px solid #FFFFFF;border-radius:24px;box-sizing:border-box;">
+                                            <td class="sched-cell" width="275" height="120" valign="top" bgcolor="#010202" style="width:275px;height:120px;background-color:#010202;border:1px solid #FFFFFF;border-radius:24px;box-sizing:border-box;word-break:break-word;">
                                                 <div style="padding:18px 17px 18px 24px;">
                                                     <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:18px;line-height:120%;color:#52E0A0;">16 июля</div>
                                                     <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:16px;line-height:120%;color:#FFFFFF;padding-top:19px;">Примеры ассистентов: юрист, HR, налоги, аналитика, PR</div>
                                                 </div>
                                             </td>
-                                            <td class="sched-gap-x" width="10" style="width:10px;font-size:0;line-height:0;">&nbsp;</td>
-                                            <td class="sched-cell" width="275" height="120" valign="top" style="width:275px;height:120px;border:1px solid #FFFFFF;border-radius:24px;box-sizing:border-box;">
+                                            <td class="sched-gap-x" width="10" style="width:10px;font-size:0;line-height:0;"></td>
+                                            <td class="sched-cell" width="275" height="120" valign="top" bgcolor="#010202" style="width:275px;height:120px;background-color:#010202;border:1px solid #FFFFFF;border-radius:24px;box-sizing:border-box;word-break:break-word;">
                                                 <div style="padding:18px 24px;">
                                                     <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:18px;line-height:120%;color:#52E0A0;">23 июля</div>
                                                     <div style="font-family: SB Sans Display, Helvetica, Arial, sans-serif;font-weight:400;font-size:16px;line-height:120%;color:#FFFFFF;padding-top:19px;">Разработка ассистента своими руками</div>
@@ -278,6 +307,7 @@ Content-Transfer-Encoding: 8bit
                                         </tr>
                                         </tbody>
                                     </table>
+                                    <!--<![endif]-->
                                 </td>
                             </tr>
                             <tr>
